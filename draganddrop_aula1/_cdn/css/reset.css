@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container{
+    width: 100%;
+    display: block;
+    background-color: whitesmoke;
+}
+
+.content {
+    max-width: 960px;
+    width: 96%;
+    margin: 0 auto;
+}
